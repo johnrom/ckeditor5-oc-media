@@ -7,7 +7,7 @@
 *.css		text
 *.htm		text
 *.html		text
-*.js		text
+*.js		eol=lf
 *.json		text
 *.php		text
 *.txt		text
