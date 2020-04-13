@@ -1,6 +1,6 @@
 {
   "name": "@johnrom/ckeditor5-oc-media",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CKEditor5 Plugin for OrchardCore.Media",
   "keywords": [
     "CKEditor5",
